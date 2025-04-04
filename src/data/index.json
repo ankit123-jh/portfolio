@@ -1,0 +1,79 @@
+{
+    "skills": {
+  "ProgrammingLanguages": [
+    { "title": "Java" },
+    { "title": "JavaScript" },
+    { "title": "Python" },
+    { "title": "C" },
+    { "title": "SQL" }
+  ],
+  "Web Technologies": [
+    { "title": "HTML" },
+    { "title": "Css" },
+    { "title": "JSON" },
+    { "title": "npm" }
+  ],
+  "Frameworks & Libraries": [
+    { "title": "React.js" },
+    { "title": "Express.js" },
+    { "title": "Node.js" },
+    { "title": "Next.js" }
+  ],
+  "Databases": [
+    { "title": "MongoDB" },
+    { "title": "MySQL" }
+  ],
+  "VersionControl": [
+    { "title": "Git" },
+    { "title": "GitHub" }
+  ],
+  "Deployment": [
+    { "title": "Vercel" },
+    { "title": "AWS" }
+  ],
+  "IDEs": [
+    { "title": "Vs Code" },
+    { "title": "PyCharm" },
+    { "title": "IntelliJ IDEA" }
+  ]
+}
+
+
+,
+
+    "portfolio":[
+    {
+        "id":1,
+        "src":"./img/img6.png ",
+        "title":"Raw Materials",
+        "description":"lorem is a playlist i am biy nist university",
+        "link":"https://github.com/ankit123-jh/Raw-Material",
+        "demo":"https://ankit-lyart.vercel.app/"
+    },
+    {
+        "id":2,
+        "src":"./img/img7.png ",
+        "title":"Textutils",
+        "description":"lorem is a playlist i am biy nist university",
+        "link":"https://github.com/ankit123-jh/textutils",
+        "demo":"https://textutils-chi-two.vercel.app/"
+    },
+    {
+        "id":3,
+        "src":"./img/img8.png",
+        "title":"NewsApp",
+        "description":"lorem is a playlist i am biy nist university",
+        "link":"https://github.com/ankit123-jh/Newsapp",
+        "demo":"https://ankit-lyart.vercel.app/"
+    },
+    {
+        "id":4,
+        "src":"./img/img9.png ",
+        "title":"Chef's Kitchen",
+        "description":"lorem is a playlist i am biy nist university",
+        "link":"https://github.com/ankit123-jh/chef-s-kitchen",
+        "demo":"https://chef-s-kitchen-inky.vercel.app/"
+    }
+    
+    ]
+}
