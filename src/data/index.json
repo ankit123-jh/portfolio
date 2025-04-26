@@ -64,7 +64,7 @@
         "title":"NewsApp",
         "description":"Built a React-based news app with dynamic content fetching.Implemented real-time news updates via API integration.",
         "link":"https://github.com/ankit123-jh/Newsapp",
-        "demo":"https://ankit-lyart.vercel.app/"
+        "demo":"https://newsapp-wine-beta.vercel.app/"
     },
     {
         "id":4,
